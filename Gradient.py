@@ -17,8 +17,6 @@ def gradient(Start_at):
     return(Out)
 
 
-x = gradient([138, 43, 225])
-
 def get_colour():
     colours = gradient([138, 43, 225])
     retreve_colors = colours[::-1]
